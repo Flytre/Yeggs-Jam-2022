@@ -1,0 +1,15 @@
+Building spawn api:
+
+1. Detect Recipe and player spawning
+2. If matches attempt spawn
+3. If spawn fails end
+4. If spawn succeeds delete items
+
+
+Algorithm:
+
+-Detect recipe and thrower
+-Tag them all
+logic
+-Remove all those tags
+-

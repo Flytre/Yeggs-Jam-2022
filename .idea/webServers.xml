@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="37774342-a359-4460-bd8f-36f2e35f0b11" name="Yeggies">
+        <fileTransfer accessType="SFTP" host="node.yeggs.org" port="2022" sshConfigId="6c16750c-9059-4960-a667-4c76420f1122" sshConfig="team.8a17e859@node.yeggs.org:2022 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
